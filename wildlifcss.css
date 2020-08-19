@@ -1,0 +1,12 @@
+h1{
+	font-family: fantasy
+}
+img{
+	margin: 20px 5px;
+	padding:20px 5px;
+	transition: all 4s;
+	
+}
+img:hover {
+	transform: scale(3.1);
+}

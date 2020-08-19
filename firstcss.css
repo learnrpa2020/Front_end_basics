@@ -28,3 +28,12 @@ section:hover{
 	border-color: rgba(0,255,0,0.1);
 
 }
+#div3{
+	display: inline-block;
+}
+}
+footer {
+	text-align: center;
+	font-size: 20px
+
+}
