@@ -1,0 +1,33 @@
+	img {
+  border-radius: 50%;
+ 
+}
+div{
+	border-style: solid;
+	border: 10px 5px;
+	border-color: red;
+	font-size: 6px;
+	position: relative;
+}
+.animation{
+
+	font-style: fantasy;
+	color: pink;
+	animation-name: example;
+	animation-duration: 3s;
+	animation-delay: 5s;
+	animation-iteration-count: 10;
+	animation-fill-mode: forwards;
+}
+@keyframes example{
+	from {
+		color:green;
+		font-size: 8px;
+	}
+	to{
+color:blue;
+font-size: 10px;
+	}
+
+
+}
