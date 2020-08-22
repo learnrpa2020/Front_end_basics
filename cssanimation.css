@@ -1,6 +1,6 @@
-	img {
+	img:hover {
   border-radius: 50%;
- 
+
 }
 div{
 	border-style: solid;
@@ -8,6 +8,10 @@ div{
 	border-color: red;
 	font-size: 6px;
 	position: relative;
+}
+marquee{
+	font-size: 3rem;
+
 }
 .animation{
 
