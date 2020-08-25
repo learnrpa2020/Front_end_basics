@@ -1,0 +1,16 @@
+.zone{
+	
+	border:10px 10px;
+	border-style: solid;
+	border-color: white;
+	display: inline-block;
+	background-color: rgba(0,128,100,0.4);
+	text-align: center;
+	padding: 5px 5px;
+
+}
+
+.container{
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+}
